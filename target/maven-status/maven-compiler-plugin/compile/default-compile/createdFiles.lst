@@ -1,0 +1,7 @@
+org\example\final_progect_modul3\model\Answer.class
+org\example\consts\Variables.class
+org\example\final_progect_modul3\model\Data.class
+org\example\final_progect_modul3\model\Question.class
+org\example\final_progect_modul3\QuestionServlet.class
+org\example\final_progect_modul3\model\Player.class
+org\example\final_progect_modul3\service\QuestionService.class
